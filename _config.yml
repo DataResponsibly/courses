@@ -1,23 +1,15 @@
-exclude:
-  - node_modules
-  - script
-
-sass:
-  style: :compressed
-
-theme: jekyll-theme-primer
-
-github:
-  private: false
-  license:
-    name: MIT
-  source:
-    branch: "master"
-    path: "/"
-  baseurl: "https://DRcourses.github.io/"
-  url: "https://DRcourses.github.io/"
-  repository_url: "https://DRcourses.github.io/"
-  
 title: Data Responsibly Courses
 description: This is a repo for all Data Responsibly related courses.
 email: stoyanovich@nyu.edu
+
+baseurl: ""
+url: "https://DRcourses.github.io"
+
+include:
+  - _pages
+
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+theme: jekyll-theme-primer
