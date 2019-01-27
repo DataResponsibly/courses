@@ -2,8 +2,8 @@ title: Data Responsibly Courses
 description: This is a repo for all Data Responsibly related courses.
 email: stoyanovich@nyu.edu
 
-baseurl: ""
-url: ""
+baseurl: "https://dataresponsibly.github.io/courses/"
+url: "https://dataresponsibly.github.io/courses/"
 
 
 sass:

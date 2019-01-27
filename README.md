@@ -1,2 +1,3 @@
-# DRcourses.github.io
-This is repo of all Data Responsibly related courses.
+# Data Responsibly Courses
+
+This is a repo of all courses that are related with Data [Responsibly](https://dataresponsibly.github.io) project.
