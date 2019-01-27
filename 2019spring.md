@@ -3,7 +3,7 @@ title: DataResponsibly - Course
 layout: default
 excerpt: "Data Responsibly - Course"
 sitemap: false
-permalink: /course19spring/
+permalink: /2019spring/
 author: Julia Stoyanovich
 ---
 
@@ -21,7 +21,7 @@ author: Julia Stoyanovich
 
 **Section Leader:** [Udita Gupta](mailto:ug200@nyu.edu). Office hours Thursdays 4-5pm at 60 5th Avenue, Room 606.
 
-**Syllabus:** [pdf](./documents/course19spring/Syllabus_DS-GA-3001.009_SP_2019.pdf)
+**Syllabus:** [pdf](./documents/2019spring/Syllabus_DS-GA-3001.009_SP_2019.pdf)
 
 **Course Description:**
     
@@ -51,7 +51,7 @@ This weekly schedule is tentative and is subject to change.
 
 |Date         | Topic | Materials | Assignments |
 |:------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------|:--------------------|
-| Jan&nbsp;28 | **Lecture:** Introduction and background <br> _Topics:_ Course outline, aspects of responsibility in data science through recent examples. <br> _Reading:_ <br> "Bias in Computer Systems", Friedman and Nissenbaum (1996) [ACM DL](https://dl.acm.org/citation.cfm?id=230561) <br> "Machine Bias", Angwin, Larson, Mattu, Kirchner (2016) [ProPublica](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) <br> "Data, Responsibly", Abiteboul and Stoyanovich (2015) [ACM SIGMOD blog](http://wp.sigmod.org/?p=1900) | [slides](./documents/course19spring/Lecture1.pdf) |  |
+| Jan&nbsp;28 | **Lecture:** Introduction and background <br> _Topics:_ Course outline, aspects of responsibility in data science through recent examples. <br> _Reading:_ <br> "Bias in Computer Systems", Friedman and Nissenbaum (1996) [ACM DL](https://dl.acm.org/citation.cfm?id=230561) <br> "Machine Bias", Angwin, Larson, Mattu, Kirchner (2016) [ProPublica](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) <br> "Data, Responsibly", Abiteboul and Stoyanovich (2015) [ACM SIGMOD blog](http://wp.sigmod.org/?p=1900) | [slides](./documents/2019spring/Lecture1.pdf) |  |
 | Jan&nbsp;31 | **Lab:** ProPublica's Machine Bias |  |  |
 | Feb&nbsp;4  | **Lecture:** Fairness <br> _Topics:_ A taxonomy of fairness definitions; individual and group fairness. The importance of a socio-technical perspective: stakeholders and trade-offs. <br> _Reading:_ <br> "Big Data's Disparate Impact", Barocas and Selbst (2016) [pdf](http://www.californialawreview.org/wp-content/uploads/2016/06/2Barocas-Selbst.pdf) <br> “Fairness through awareness”, Dwork, Hardt, Pitassi, Reingold, Zemel (2012) [ACM DL](https://dl.acm.org/citation.cfm?doid=2090236.2090255) <br> "On the (im)possibility of fairness", Friedler, Scheidegger, Venkatasubramanian (2016) [arXiv](https://arxiv.org/abs/1609.07236) |  |  |
 | Feb&nbsp;7  | **Lab:** IBM's AI Fairness 360 toolkit |  |  |
