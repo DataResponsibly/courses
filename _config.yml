@@ -3,10 +3,8 @@ description: This is a repo for all Data Responsibly related courses.
 email: stoyanovich@nyu.edu
 
 baseurl: ""
-url: "https://DRcourses.github.io"
+url: ""
 
-include:
-  - _pages
 
 sass:
   style: :compressed
