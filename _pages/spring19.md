@@ -17,7 +17,7 @@ author: Julia Stoyanovich
 **Instructor:** [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich), Assistant Professor of Data Science, Computer Science and Engineering.
 <br>Office hours Mondays 1:30-3pm or by appointment, at 60 5th Avenue, Room 605.
 
-**Section Leader:** [Udita Gupta](mailto:ug200@nyu.edu). Office hours Thursdays 4-5pm at 60 5th Avenue, Room 606.
+**Section Leader:** [Udita Gupta](mailto:ug200@nyu.edu). Office hours Thursdays 4-5pm at 60 5th Avenue, Room 663.
 
 **Syllabus:** [pdf](https://dataresponsibly.github.io/courses/documents/spring19/Syllabus_DS-GA-3001.009_SP_2019.pdf)
 
