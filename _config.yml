@@ -12,3 +12,6 @@ sass:
   sass_dir: _sass
 
 theme: jekyll-theme-primer
+
+plugins:
+  - jekyll-redirect-from
