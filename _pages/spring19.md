@@ -57,7 +57,7 @@ This weekly schedule is tentative and is subject to change.
 | Feb&nbsp;11 | **Lecture:** Fairness <br> _Topics:_ Impossibility results; causal definitions; fairness beyond classification. <br> _Reading:_ <br> "Fair prediction with disparate impact: A study of bias in recidivism prediction instruments", Chouldechova (2017) [arXiv](https://arxiv.org/abs/1703.00056) <br> "Prediction-Based Decisions and Fairness: A Catalogue of Choices, Assumptions, and Definitions", Mitchell, Porash, Barocas (2018) [arXiv](https://arxiv.org/abs/1811.07867) |  |  |
 | Feb&nbsp;14 | **Lab:** IBM's AI Fairness 360 toolkit |  | HW1 assigned |
 | Feb&nbsp;18 | No class, university holiday |  |  |
-| Feb&nbsp;21 | **Lab:** TBD |  |  |
+| Feb&nbsp;21 | **Lab:** Fairness and Causality (guest lecture by Shira Mitchell) |  |  |
 | Feb&nbsp;25 | **Lecture:** Anonymity and privacy <br> _Topics:_ Overview of responsible data sharing. Anonymization techniques; the limits of anonymization. Harms beyond re-identification. |  | HW1 due |
 | Feb&nbsp;28 | **Lab:** Data Synthesizer |  | HW2 assigned |
 | Mar&nbsp;4  | **Lecture:** Anonymity and privacy <br> _Topics:_ Differential privacy; privacy-preserving synthetic data generation; exploring the privacy / utility trade-off. |  |  |
