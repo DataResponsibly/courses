@@ -59,7 +59,7 @@ This weekly schedule is tentative and is subject to change.
 | Feb&nbsp;18 | No class, university holiday |  |  |
 | Feb&nbsp;21 | **Lab:** Fairness and Causality |  [slides](https://dataresponsibly.github.io/courses/documents/spring19/RDS_Lab4.pdf)|  |
 | Feb&nbsp;25 | **Lecture:** Anonymity and privacy, guest lecture by [Daniela Hochfellner](https://cusp.nyu.edu/profiles/daniela-hochfellner/) <br> _Topics:_ Overview of responsible data sharing. Anonymization techniques; the limits of anonymization. Harms beyond re-identification.<br> _Reading:_ <br>"The Belmont Report" (1979) [pdf](https://www.hhs.gov/ohrp/sites/default/files/the-belmont-report-508c_FINAL.pdf) <br> "Critical questions for Big Data", danah boyd and Cate Crawford (2012) [pdf](https://www.tandfonline.com/doi/pdf/10.1080/1369118X.2012.678878) |  [slides](https://dataresponsibly.github.io/courses/documents/spring19/Lecture4.pdf) | HW1 due |
-| Feb&nbsp;28 | **Lab:** Anonymity and privacy |  | |
+| Feb&nbsp;28 | **Lab:** Anonymity and privacy | [jupyter notebook](https://dataresponsibly.github.io/courses/documents/spring19/RDS_Lab5.ipynb) [slides](https://dataresponsibly.github.io/courses/documents/spring19/RDS_Lab5.pdf)  | |
 | Mar&nbsp;4  | **Lecture:** Anonymity and privacy <br> _Topics:_ Differential privacy; privacy-preserving synthetic data generation; exploring the privacy / utility trade-off. |  |  |
 | Mar&nbsp;7  | **Lab:** Anonymity and privacy |  | HW2 assigned |
 | Mar&nbsp;11 | **Lecture:** Data science lifecycle, data profiling <br> _Topics:_ Overview of the data science lifecycle. Data profiling and validation. Is my dataset "biased"? The limits of data profiling. Data provenance. |  |  |
