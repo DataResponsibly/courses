@@ -60,19 +60,20 @@ This weekly schedule is tentative and is subject to change.
 | Feb&nbsp;21 | **Lab:** Fairness and Causality |  [slides](https://dataresponsibly.github.io/courses/documents/spring19/RDS_Lab4.pdf)|  |
 | Feb&nbsp;25 | **Lecture:** Anonymity and privacy, guest lecture by [Daniela Hochfellner](https://cusp.nyu.edu/profiles/daniela-hochfellner/) <br> _Topics:_ Overview of responsible data sharing. Anonymization techniques; the limits of anonymization. Harms beyond re-identification.<br> _Reading:_ <br>"The Belmont Report" (1979) [pdf](https://www.hhs.gov/ohrp/sites/default/files/the-belmont-report-508c_FINAL.pdf) <br> "Critical questions for Big Data", danah boyd and Cate Crawford (2012) [pdf](https://www.tandfonline.com/doi/pdf/10.1080/1369118X.2012.678878) |  [slides](https://dataresponsibly.github.io/courses/documents/spring19/Lecture4.pdf) | HW1 due |
 | Feb&nbsp;28 | **Lab:** Anonymity and privacy | [jupyter notebook](https://dataresponsibly.github.io/courses/documents/spring19/RDS_Lab5.ipynb) [slides](https://dataresponsibly.github.io/courses/documents/spring19/RDS_Lab5.pdf)  | |
-| Mar&nbsp;4  | **Lecture:** Anonymity and privacy <br> _Topics:_ Differential privacy; privacy-preserving synthetic data generation; exploring the privacy / utility trade-off. <br> _Reading:_ <br>"A firm foundation for private data analysis", C. Dwork (2011) [ACM DL](https://dl.acm.org/citation.cfm?doid=1866739.1866758)<br>"Can a set of equations keep U.S. census data private?", J. Mervis (2019) [Science](https://www.sciencemag.org/news/2019/01/can-set-equations-keep-us-census-data-private)  |  [slides](https://dataresponsibly.github.io/courses/documents/spring19/Lecture5.pdf)|  |
+| Mar&nbsp;4  | **Lecture:**  no class, snow day | |
 | Mar&nbsp;7  | **Lab:** Anonymity and privacy |  | |
-| Mar&nbsp;11 | **Lecture:** Data science lifecycle, data profiling <br> _Topics:_ Overview of the data science lifecycle. Data profiling and validation. Is my dataset "biased"? The limits of data profiling. Data provenance. |  | HW2 assigned |
-| Mar&nbsp;14 | **Lab:** Data profiling |  |  |
+| Mar&nbsp;11 | **Lecture:** Anonymity and privacy <br> _Topics:_ Differential privacy; privacy-preserving synthetic data generation; exploring the privacy / utility trade-off. <br> _Reading:_ <br>"A firm foundation for private data analysis", C. Dwork (2011) [ACM DL](https://dl.acm.org/citation.cfm?doid=1866739.1866758)<br>"Can a set of equations keep U.S. census data private?", J. Mervis (2019) [Science](https://www.sciencemag.org/news/2019/01/can-set-equations-keep-us-census-data-private)  |  [slides](https://dataresponsibly.github.io/courses/documents/spring19/Lecture5.pdf) |  | HW2 assigned |
+| Mar&nbsp;14 | **Lab:** Data Synthesizer |  |  |
 | Mar&nbsp;18 | No class, university holiday |  |  |
 | Mar&nbsp;21 | No class, university holiday |  |  |
-| Mar&nbsp;25 | **Lecture:** Data cleaning <br> _Topics:_ Qualitative and quantitative error detection. Missing attribute values and imputation. Outlier detection; duplicate detection. Documenting data cleaning transformations. |  |  |
+| Mar&nbsp;25 | **Lecture:** Profiling and particularity, guest lecture by [Solon Barocas](http://solon.barocas.org/) <br> _Topics:_<br>_Reading:_  
+|  |  |
 | Mar&nbsp;28 | **Lab:** Data cleaning |  | HW2 due |
-| Apr&nbsp;1  | **Lecture:** Transparency <br> _Topics:_ Auditing black-box models; explainable machine learning; software testing. |  | HW3 assigned |
-| Apr&nbsp;4  | **Lab:** LIME |  |  |
-| Apr&nbsp;8  | **Lecture:** Transparency <br> _Topics:_ Online price discrimination, transparency in online ad delivery. |  | |
-| Apr&nbsp;11 | **Lab:** Quantitative Input Influence |  | HW3 due<br> HW4 assigned |
-| Apr&nbsp;15 | **Lecture:** From transparency to accountability <br> _Topics:_ Transparency and accountability. Legal frameworks: GDPR and the right to explanation; NYC ADS transparency law. From auditing to interpretability. |  |  |
+| Apr&nbsp;1  | **Lecture:** Data cleaning <br> _Topics:_ Data science lifecycle, data profiling, data cleaning <br> Overview of the data science lifecycle. Data profiling and validation. Qualitative and quantitative error detection. Missing attribute values and imputation. Outlier detection; duplicate detection. Documenting data cleaning transformations. |  | HW3 assigned |
+| Apr&nbsp;4  | **Lab:** Data cleaning |  |  |
+| Apr&nbsp;8  | **Lecture:** Transparency <br> _Topics:_ Auditing black-box models; explainable machine learning; software testing. |  | |
+| Apr&nbsp;11 | **Lab:** LIME, Quantitative Input Influence |  | HW3 due<br> HW4 assigned |
+| Apr&nbsp;15 | **Lecture:** From transparency to accountability <br> _Topics:_ Online price discrimination, transparency in online ad delivery. Transparency and accountability. Legal frameworks: GDPR and the right to explanation; NYC ADS transparency law. From auditing to interpretability. |  |  |
 | Apr&nbsp;18 | **Lab:** Final review |  |  |
 | Apr&nbsp;22 | **Lecture:** Final exam (in class) |  | HW4 due |
 | Apr&nbsp;25 | **Lab:** Nutritional labels |  | Project assigned |
