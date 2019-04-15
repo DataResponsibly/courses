@@ -72,12 +72,13 @@ This weekly schedule is tentative and is subject to change.
 | Apr&nbsp;4  | **Lab:** Data profiling |  |  |
 | Apr&nbsp;8  | **Lecture:** Transparency <br> _Topics:_ Auditing black-box models; explainable machine learning.<br>_Reading:_<br>"Why should I trust you? Explaining the predictions of any classifier", Ribeiro, Singh, Guestrin (2016) [pdf](https://dl.acm.org/citation.cfm?doid=2939672.2939778)<br>"Algorithmic transparency via quantiative input influence: theory and experiments with learning systems", Datta, Sen, Zick (2016) [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7546525)| [slides](https://dataresponsibly.github.io/courses/documents/spring19/Lecture8.pdf) | |
 | Apr&nbsp;11 | **Lab:** LIME, Quantitative Input Influence | [jupyter notebook](https://dataresponsibly.github.io/courses/documents/spring19/RDS_Lab10.ipynb) | HW3 due<br> HW4 assigned |
-| Apr&nbsp;15 | **Lecture:** From transparency to accountability <br> _Topics:_ Online price discrimination, transparency in online ad delivery. Transparency and accountability. Legal frameworks: GDPR and the right to explanation; NYC ADS transparency law. From auditing to interpretability. |  |  |
+| Apr&nbsp;15 | **Lecture:** From transparency to accountability <br> _Topics:_ Discrimination in online ad delivery. Interpretability.<br>_Reading:_<br>"Automated Experiments on Ad Privacy Settings", Datta, Tschantz, Datta (2015) [pdf](https://content.sciendo.com/view/journals/popets/2015/1/article-p92.xml) <br>"Discrimination through optimization:
+How Facebook’s ad delivery can lead to skewed outcomes", Ali, Sapiezynski, Bogen, Korolova, Mislove, Rieke(2019) [pdf](https://arxiv.org/pdf/1904.02095.pdf) |  |  |
 | Apr&nbsp;18 | **Lab:** Final review |  |  |
 | Apr&nbsp;22 | **Lecture:** Final exam (in class) |  |  |
 | Apr&nbsp;25 | **Lab:** Nutritional labels |  | HW4 due Project assigned |
-| Apr&nbsp;29 | **Lecture:** Diversity <br> _Topics:_ Background on diversity in information retrieval, recommender systems and crowdsourcing; diversity models and algorithms; diversity vs. fairness; trade-offs between diversity and utility. |  |  |
-| May&nbsp;2  | **Lab:** Diversity |  |  |
-| May&nbsp;6  | **Lecture:** Reproducibiilty |  |  |
-| May&nbsp;9  | **Lab:** Reproducibility |  |  |
+| Apr&nbsp;29 | **Lecture:** Data Cleaning guest lecture by [Sebastian Schelter](https://ssc.io/)<br> _Topics:_ Overview of data cleaning. |  |  |
+| May&nbsp;2  | **Lab:** Data cleaning |  |  |
+| May&nbsp;6  | **Lecture:** Legal frameworks, codes of ethics, and personal responsibility.   |  |  |
+| May&nbsp;9  | **Lab:** TBD |  |  |
 | May&nbsp;13 | **Lecture:** Project presentations |  | Project report due |
