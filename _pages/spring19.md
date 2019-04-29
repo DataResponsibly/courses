@@ -76,7 +76,7 @@ This weekly schedule is tentative and is subject to change.
 | Apr&nbsp;18 | **Lab:** Final review |  |  |
 | Apr&nbsp;22 | **Lecture:** Final exam (in class) |  |  |
 | Apr&nbsp;25 | **Lab:** Nutritional labels | [jupyter notebook](https://dataresponsibly.github.io/courses/documents/spring19/Nutritional_Labels_For_Rankings_Lab12.ipynb) [slides](https://dataresponsibly.github.io/courses/documents/spring19/RDS_Lab12.pdf) | HW4 due Project assigned |
-| Apr&nbsp;29 | **Lecture:** Data Cleaning guest lecture by [Sebastian Schelter](https://ssc.io/)<br> _Topics:_ Overview of data cleaning.<br>_Reading:_ "Quantitative Data Cleaning for Large Databases", Joe Hellerstein (2008) [pdf](http://db.cs.berkeley.edu/jmh/papers/cleaning-unece.pdf) | [slides] (https://dataresponsibly.github.io/courses/documents/spring19/data-validation-and-data-cleaning.pdf) |  |
+| Apr&nbsp;29 | **Lecture:** Data Cleaning guest lecture by [Sebastian Schelter](https://ssc.io/)<br> _Topics:_ Overview of data cleaning.<br>_Reading:_ "Quantitative Data Cleaning for Large Databases", Joe Hellerstein (2008) [pdf](http://db.cs.berkeley.edu/jmh/papers/cleaning-unece.pdf) | [slides](https://dataresponsibly.github.io/courses/documents/spring19/data-validation-and-data-cleaning.pdf) |  |
 | May&nbsp;2  | **Lab:** Data cleaning |  |  |
 | May&nbsp;6  | **Lecture:** Legal frameworks, codes of ethics, and personal responsibility.   |  |  |
 | May&nbsp;9  | **Lab:** TBD |  |  |
