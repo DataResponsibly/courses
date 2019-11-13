@@ -3,6 +3,7 @@ title: DataResponsibly - Course
 layout: default
 permalink: /spring20/
 author: Julia Stoyanovich
+redirect_from: "/"
 ---
 
 # [DS-GA 3001.009: Special Topics in Data Science:<br> Responsible Data Science](.)
