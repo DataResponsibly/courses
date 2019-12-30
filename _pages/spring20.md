@@ -18,9 +18,9 @@ redirect_from: "/"
 **Instructor:** [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich), Assistant Professor of Data Science, Computer Science and Engineering.
 <br>Office hours Mondays 1:30-3pm or by appointment, at 60 5th Avenue, Room 703.
 
-**Section Leader:** [Brina Seidel](mailto:bs3743@nyu.edu). Office hours TBD at 60 5th Avenue, Room 663.
+**Section Leader:** [Brina Seidel](mailto:bs3743@nyu.edu). Office hours Wednesdays 2-3pm or by appointment, at 60 5th Avenue, Room TBD.
 
-**Grader:** [Prasanthi Gurumurthy](mailto:pg1899@nyu.edu). Office hours TBD at 60 5th Avenue, Room 663.
+**Grader:** [Prasanthi Gurumurthy](mailto:pg1899@nyu.edu). Office hours TBD at 60 5th Avenue, Room TBD.
 
 **Syllabus:** [pdf](https://dataresponsibly.github.io/courses/documents/spring20/Syllabus_DS-GA-3001.009_SP_2020.pdf)
 
