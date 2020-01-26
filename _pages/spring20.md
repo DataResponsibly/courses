@@ -72,12 +72,12 @@ This weekly schedule is tentative and is subject to change.
 | Mar&nbsp;30 | **Lab:** LIME |  |  |
 | Apr&nbsp;6  | **Lecture:** Transparency <br> _Topics:_ Discrimination in online ad delivery. Interpretability.<br>_Reading:_<br>"Automated Experiments on Ad Privacy Settings", Datta, Tschantz, Datta (2015) [pdf](https://content.sciendo.com/view/journals/popets/2015/1/article-p92.xml) <br>"Discrimination through optimization: How Facebook’s ad delivery can lead to skewed outcomes", Ali, Sapiezynski, Bogen, Korolova, Mislove, Rieke (2019) [pdf](https://arxiv.org/pdf/1904.02095.pdf) <br> "Facebook has been charged with housing discrimination by the US government", Russell Brandom for The Verge, Mar 28, 2019 [read online](https://www.theverge.com/2019/3/28/18285178/facebook-hud-lawsuit-fair-housing-discrimination) | |  HW3 assigned |
 | Apr&nbsp;6  | **Lab:** Transparency |  |  |
-| Apr&nbsp;13  | **Lecture:** Slack <br> _Topics:_ TBD _Reading:_<br> TBD|  | |
+| Apr&nbsp;13  | **Lecture:** Slack <br> _Topics:_ TBD <br> _Reading:_ TBD|  | |
 | Apr&nbsp;13 | **Lab:** Slack TBD | |  |
 | Apr&nbsp;20 | **Lecture:** Final exam review |  | HW3 due|
 | Apr&nbsp;20 | **Lab:** Final review |  |  |
 | Apr&nbsp;27 | **Lecture:** Final exam (in class) |  |  |
 | Apr&nbsp;27 | **Lab:** Course project | |  |
-| May&nbsp;4 | **Lecture:** Guest lecture <br> _Topics:_ TBD _Reading:_<br> TBD|  | |
+| May&nbsp;4 | **Lecture:** Guest lecture <br> _Topics:_ TBD <br> _Reading:_ TBD|  | |
 | May&nbsp;4  | **Lab:** TBD | |  |
 | May&nbsp;11 | **Lecture:** Project presentations |  | Project report due |
