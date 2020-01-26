@@ -74,7 +74,7 @@ This weekly schedule is tentative and is subject to change.
 | Apr&nbsp;6  | **Lab:** Transparency |  |  |
 | Apr&nbsp;13  | **Lecture:** Guest lecture <br> _Topics:_ TBD _Reading:_<br> TBD|  | |
 | Apr&nbsp;13 | **Lab:** TBD | |  |
-| Apr&nbsp;20 | **Lecture:** Final exam review |  HW3 due|
+| Apr&nbsp;20 | **Lecture:** Final exam review |  | HW3 due|
 | Apr&nbsp;20 | **Lab:** Final review |  |  |
 | Apr&nbsp;27 | **Lecture:** Final exam (in class) |  |  |
 | Apr&nbsp;27 | **Lab:** Course project | |  |
