@@ -14,6 +14,7 @@ For example, to access a course opens during **Spring semester 2019**, go to "ht
 ## Past or ongoing courses can be found below.
 
 * 2019 Spring semester: [DS-GA 3001.009: Special Topics in Data Science: Responsible Data Science](https://dataresponsibly.github.io/courses/spring19)
+* 2020 Spring semester: [DS-GA 3001.009: Special Topics in Data Science: Responsible Data Science](https://dataresponsibly.github.io/courses/spring20)
 
 
 
