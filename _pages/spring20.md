@@ -32,7 +32,7 @@ Responsible Data Science is a technical course that tackles the issues of ethics
 
 **Prerequisites:** Introduction to Data Science, Introduction to Computer Science, or similar courses.
 
-**Lab Materials:** Labs will be conducted using Jupyter Hub. Students should use their NYU NetID to log in at https://dsga-3001009.rcnyu.org/, and click the "Assignments" tab to find the material for each week. After lab, links to the notebook for each class will be included on this page. Lab attendance is required. 
+**Lab Materials:** Labs will be conducted using [Jupyter Hub](https://dsga-3001009.rcnyu.org/). Students should use their NYU NetID to log in, and click the "Assignments" tab to find the material for each week. After lab, links to the notebook for each class will be included on this page.
 
 ## Background Reading (required)
 
