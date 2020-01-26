@@ -48,6 +48,8 @@ Responsible Data Science is a technical course that tackles the issues of ethics
 
 ## Schedule
 
+* See Spring 2019 schedule, slides, labs: [DS-GA 3001.009: Special Topics in Data Science: Responsible Data Science](https://dataresponsibly.github.io/courses/spring19)
+
 This weekly schedule is tentative and is subject to change.
 
 |Date         | Topic | Materials | Assignments |
