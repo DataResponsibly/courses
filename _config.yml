@@ -2,16 +2,34 @@ title: Data Responsibly Courses
 description: This is a repo for all Data Responsibly related courses.
 email: stoyanovich@nyu.edu
 
-baseurl: ""
-url: ""
+baseurl: "https://dataresponsibly.github.io"
+url: "https://dataresponsibly.github.io/courses"
 include:
   - _pages
 
 sass:
-  style: :compressed
   sass_dir: _sass
 
-theme: jekyll-theme-primer
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+timezone: EST
+future: true
 
-plugins:
-  - jekyll-redirect-from
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+
