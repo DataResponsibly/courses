@@ -1,0 +1,113 @@
+---
+---
+    
+@import "bootstrap";
+
+body {
+	padding-top: 10px;
+}
+
+figcaption {
+    text-align: right;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 600;
+}
+
+
+/* Top navigation bar */
+#navbar-collapse-1{
+  font-size: 19px;
+}
+#header_logo {
+	width: inherit;
+	height: 158%;
+	margin-top: -10px;
+}
+
+
+/* Home page*/
+.container-fluid {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1000px; /* or 950px */
+}
+
+header.masthead {
+  position: relative;
+  background-color: #343a40;
+  background: url("../images/green-back.png") no-repeat center center;
+  background-size: cover;
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+}
+
+
+header.masthead h1 {
+  font-size: 2.0rem;
+  color: white;
+  font-weight: 400;
+}
+
+@media (min-width: 768px) {
+  header.masthead {
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+  }
+  header.masthead h1 {
+    font-size: 2.5rem;
+  }
+}
+
+.showcase-text {
+  padding-left: 0.5rem;
+}
+
+
+@media (min-width: 768px) {
+  .showcase-text {
+    padding-top: 7rem;
+    padding-left: 7rem;
+
+  }
+}
+.showcase-img {
+  padding-left: 1rem;
+  width: 80%
+}
+
+@media (min-width: 768px) {
+  .showcase-img {
+    padding-left: 15rem;
+    padding-top: 7rem;
+    width: 75%
+  }
+}
+
+
+/* People & Publications */
+#gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
+#gridid .row { margin-bottom: 24px; }
+pubtit {
+	font-weight: bold;
+}
+
+#gridid {
+  position: relative;
+  padding-top: 5rem;
+}
+@media (min-width: 768px) {
+  #gridid {
+    position: relative;
+    padding-top: 5rem;
+  }
+}
