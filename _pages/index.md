@@ -24,13 +24,7 @@ This is an index page for courses, which are related with [Data Responsibly](htt
 <br/><br/>
 <br/><br/>
 <br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
+
 
 
 
