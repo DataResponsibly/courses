@@ -7,14 +7,14 @@ permalink: /
 ---
 
 
-## Data Responsibly Courses
+## Courses
 
 
-This is an index page for courses, which are related with [Data Responsibly](https://dataresponsibly.github.io/) and are taught by Prof. [Julia Stoyanovich](http://stoyanovich.org/) at NYU. 
+Courses taught by Prof. [Julia Stoyanovich](http://stoyanovich.org/) at the Center for Data Science at NYU. 
 
 
+* 2020 Spring semester: [DS-GA 3001.009: Special Topics in Data Science: Responsible Data Science](https://dataresponsibly.github.io/courses/spring20), in progress
 * 2019 Spring semester: [DS-GA 3001.009: Special Topics in Data Science: Responsible Data Science](https://dataresponsibly.github.io/courses/spring19)
-* 2020 Spring semester: [DS-GA 3001.009: Special Topics in Data Science: Responsible Data Science](https://dataresponsibly.github.io/courses/spring20) course in progress
 
 <br/><br/>
 <br/><br/>
