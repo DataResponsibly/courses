@@ -1,6 +1,6 @@
 ---
 title: DataResponsibly - Course
-layout: default
+layout: default_course
 permalink: /spring20/
 author: Julia Stoyanovich
 ---
