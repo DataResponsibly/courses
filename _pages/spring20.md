@@ -77,9 +77,9 @@ This weekly schedule is tentative and is subject to change.
 | Apr&nbsp;6  | **Lab:** Transparency |  |  |
 | Apr&nbsp;13  |**Lecture:** Interpretability <br> _Topics:_ TBD <br> _Reading:_ TBD |  | |
 | Apr&nbsp;13 | **Lab:** Interpretability | |  |
-| Apr&nbsp;20 | **Lecture:** Legal and regulatory frameworks <br> _Topics:_ Data protection, algorithmic impact assessment, regulating Automated Decision Systems (ADS) and AI <br> _Reading:_ TBD  |  | HW3 due|
+| Apr&nbsp;20 | **Lecture:** RDS in practice: Guest lecture by [Robert Cheetham](https://www.azavea.com/about/teammate/robert-cheetham/), President and CEO of Azavea  <br> _Topics:_ Selecting your  <br> _Reading:_ TBD  |  | HW3 due|
 | Apr&nbsp;20 | **Lab:** Final exam review |  |  |
-| Apr&nbsp;27 | **Lecture:**  TBD <br> _Topics:_ TBD <br> _Reading:_ TBD |  |  Final exam assigned (take-home) |
+| Apr&nbsp;27 | **Lecture:** Legal and regulatory frameworks <br> _Topics:_ Data protection, algorithmic impact assessment, regulating Automated Decision Systems (ADS) and AI <br> _Reading:_ TBD |  |  Final exam assigned (take-home) |
 | Apr&nbsp;27 | **Lab:** Course project |  |  |
 | May&nbsp;4 | **Lecture:** TBD <br> _Topics:_ TBD <br> _Reading:_ TBD |  | |
 | May&nbsp;4  | **Lab:** TBD | |  |
