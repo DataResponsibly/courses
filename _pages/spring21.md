@@ -11,7 +11,8 @@ author: Julia Stoyanovich, George Wood
 
 **Lecture:** Mondays from 9:15am-10:55am
 
-**Lab:** Mondays from 3:30pm-4:20pm (blended), Wednesdays from 9:30am-10:20am (online)
+**Lab A:** Mondays from 3:30pm-4:20pm (blended)
+**Lab B:** Wednesdays from 9:30am-10:20am (online)
 
 **Location:** To be confirmed
 
