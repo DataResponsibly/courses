@@ -9,17 +9,13 @@ author: Julia Stoyanovich, George Wood
 
 ## New York University, Center for Data Science, Spring 2021
 
-**Lecture A (DS-GA 1017):** Mondays 9:15am-10:55am
-
+**Lecture A (DS-GA 1017):** Mondays 9:15am-10:55am<br>
 **Lecture B (DS-UA 202):** Tuesdays from 9:30am-12pm
 
-**Lab A (DS-GA 1017):** Mondays 11:35am-12:25pm (blended)
-
-**Lab B (DS-GA 1017):** Wednesdays 9:30am-10:20am (online)
-
-**Lab C (DS-UA 202):** Wednesdays from 9:30am-10:20am (online)
-
-**Lab D (DS-UA 202):** Wednesdays from 10:25am-11:15am (blended)
+**Lab A (DS-GA 1017):** Mondays 11:35am-12:25pm (blended)<br>
+**Lab B (DS-GA 1017):** Wednesdays 9:30am-10:20am (online)<br>
+**Lab C (DS-UA 202):** Wednesdays  9:30am-10:20am (online)<br>
+**Lab D (DS-UA 202):** Wednesdays  10:25am-11:15am (blended)
 
 **Instructors:**
 
