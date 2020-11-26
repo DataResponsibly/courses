@@ -5,27 +5,39 @@ permalink:
 author: Julia Stoyanovich, George Wood
 ---
 
-# [DS-GA 1017: Responsible Data Science](.)
+# [DS-UA 202 and DS-GA 1017: Responsible Data Science](.)
 
 ## New York University, Center for Data Science, Spring 2021
 
-**Lecture:** Mondays from 9:15am-10:55am
+**Lecture A (DS-GA 1017):** Mondays 9:15am-10:55am
 
-**Lab A:** Mondays from 3:30pm-4:20pm (blended)
-**Lab B:** Wednesdays from 9:30am-10:20am (online)
+**Lecture B (DS-UA 202):** Tuesdays from 9:30am-12pm
 
-**Location:** To be confirmed
+**Lab A (DS-GA 1017):** Mondays 11:35am-12:25pm (blended)
+
+**Lab B (DS-GA 1017):** Wednesdays 9:30am-10:20am (online)
+
+**Lab C (DS-UA 202):** Wednesdays from 9:30am-10:20am (online)
+
+**Lab D (DS-UA 202):** Wednesdays from 10:25am-11:15am (blended)
 
 **Instructors:**
 
 [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich), Assistant Professor of Data Science, Computer Science and Engineering<br>
 [George Wood](https://gwood.me), Moore-Sloan Faculty Fellow, Center for Data Science
 
-**Section Leader:** [Prasanthi Gurumurthy](mailto:pg1899@nyu.edu)
+**Section Leaders:** 
 
-**Grader:** To be confirmed
+[Prasanthi Gurumurthy](mailto:pg1899@nyu.edu), DS-GA 1017, office hours TBD<br> 
+[Jeewon Ha](mailto:jh6926@nyu.edu), DS-UA 202, office hours TBD<br> 
+[Apurva Bhargava](mailto:ab8687@nyu.edu), DS-UA 202, office hours TBD
 
-**Syllabus:** To be added
+**Graders:** 
+
+[Evaristus Ezekwem](mailto:evaristus.ezekwem@nyu.edu), DS-GA 1017, office hours TBD<br> 
+[Nan Wu](nw1045@nyu.edu), DS-GA 1017, office hours TBD
+
+**Syllabi:** [DS-UA 202](#) [DS-GA 1017](#) 
 
 **Course Description:**
 
@@ -33,7 +45,7 @@ The first wave of data science focused on accuracy and efficiency -- on what we 
 
 Responsible Data Science is a technical course that tackles the issues of ethics, legal compliance, data quality, algorithmic fairness and diversity, transparency of data and algorithms, privacy, and data protection. The course is developed and taught by [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich) (Assistant Professor at the Center for Data Science and at the Tandon School of Engineering, and member of the [NYC Automated Decision Systems Task Force](https://www1.nyc.gov/site/adstaskforce/index.page)) and [George Wood](https://gwood.me) (Moore-Sloan Faculty Fellow at the Center for Data Science).
 
-**Prerequisites:** Introduction to Data Science, Introduction to Computer Science, or similar courses.
+**Prerequisites:** Introduction to Data Science, Introduction to Computer Science, or similar courses.  
 
 **Lab Materials:** Labs will be conducted using [Jupyter Hub](https://dsga-3001009.rcnyu.org/). Students should use their NYU NetID to log in, and click the "Assignments" tab to find the material for each week. After lab, links to the notebook for each class will be included on this page.
 
@@ -52,8 +64,6 @@ Responsible Data Science is a technical course that tackles the issues of ethics
 *  Virginia Eubanks "Automating Inequality"
 
 ## Schedule
-
-* See Spring 2020 schedule, slides, labs: [DS-GA 3001.009: Special Topics in Data Science: Responsible Data Science](https://dataresponsibly.github.io/courses/spring20)
 
 This weekly schedule is tentative and is subject to change.
 
