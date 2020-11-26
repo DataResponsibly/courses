@@ -24,7 +24,7 @@ author: Julia Stoyanovich, George Wood
 
 **Section Leaders:** 
 
-[Apurva Bhargava](mailto:ab8687@nyu.edu), DS-UA 202, office hours TBD
+[Apurva Bhargava](mailto:ab8687@nyu.edu), DS-UA 202, office hours TBD<br>
 [Jeewon Ha](mailto:jh6926@nyu.edu), DS-UA 202, office hours TBD<br> 
 [Prasanthi Gurumurthy](mailto:pg1899@nyu.edu), DS-GA 1017, office hours TBD<br> 
 
