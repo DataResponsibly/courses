@@ -9,7 +9,7 @@ permalink: /
 
 ## Courses
 
-Public education course [We are AI](https://dataresponsibly.github.io/we-are-ai/)
+Public education course [We are AI](http://bit.ly/WeAreAI)
 
 Responsible Data Science at the Center for Data Science at NYU:
 * 2021 Spring semester: [DS-GA 1017 and DS-UA 202: Responsible Data Science](https://dataresponsibly.github.io/rds/), co-taught by [Julia Stoyanovich](http://stoyanovich.org/) and [George Wood](http://gwood.me)
